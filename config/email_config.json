@@ -1,0 +1,6 @@
+{
+    "sender_email": "YOUR_EMAIL@example.com",
+    "sender_password": "YOUR_EMAIL_PASSWORD",
+    "smtp_server": "smtp.example.com",
+    "smtp_port": 587
+}
